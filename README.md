@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet...
 |   |SW| Switch | Switch SPDT | SLIDE_MINI_SWITCH | 3
 |   |SW3,SW4| Push-button | 4*4*1.5Copper head,260G, 0.25mm | SW-SMD_4P-L5.2-W5.2-P3.70-LS6.5 | 5
 | X |U1| Microcontrolador | ESP32-WROOM-32 | WIFIM-SMD_ESP-32S | 1
-|   |U2,U20| Conversor Buck | MINI-360 | SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP (MP2307 Package) | 2
+| X |U2,U20| Conversor Buck | MINI-360 | SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP (MP2307 Package) | 2
 | X |U3,U5,U6,<br/>U11,U12,U13,<br/>U14,U15,U16,<br/>U19| Sensor IR | QRE1113GR | OPTO-SMD_QRE1113GR | 10
-|   |U4| Ponte H | TB6612FNG | SSOP-24_L8.3-W5.6-P0.65-LS7.6-BL| 1
+| X |U4| Ponte H | TB6612FNG | SSOP-24_L8.3-W5.6-P0.65-LS7.6-BL| 1
 | X |U10| Conversor A/D | MCP3008-I/SL | SOIC16 | 1
